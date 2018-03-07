@@ -1,9 +1,13 @@
 #ifndef EMPLEADO_H
 <<<<<<< HEAD
+<<<<<<< HEAD
 #define empleado
 =======
 #define EMPLEADO_H
 >>>>>>> 8b8a61309885d70725b4ef798a445de70ac6cdbb
+=======
+#define empleado
+>>>>>>> master
 
 class Empleado {
     private:
@@ -18,10 +22,14 @@ class Empleado {
             m_departamento="IT";
             m_posicion="JEFE";
 <<<<<<< HEAD
+<<<<<<< HEAD
             m_salario="300";
 =======
             m_salario=300;
 >>>>>>> 8b8a61309885d70725b4ef798a445de70ac6cdbb
+=======
+            m_salario="300";
+>>>>>>> master
         }
         void ImprimirInfo( )
         {
@@ -29,6 +37,9 @@ class Empleado {
            cout << "Departamento: " << m_departamento << '\n';
            cout << "Puesto: " << m_posicion << '\n';
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> master
            cout << "Salario: " << m-salario << '\n';
         }
 
@@ -42,6 +53,7 @@ class Empleado {
         const char* GetDepartamento( ){ return m_departamento }
         const int GetPosicion( ){ return 0; }
         const void GetSalario( ){ return m_salario }
+<<<<<<< HEAD
 =======
            cout << "Salario: " << m_salario << '\n';
         }
@@ -57,6 +69,8 @@ class Empleado {
         const char* GetPosicion( ){ return m_posicion; }
         const int GetSalario( ){ return m_salario; }
 >>>>>>> 8b8a61309885d70725b4ef798a445de70ac6cdbb
+=======
+>>>>>>> master
 };
 
 #endif

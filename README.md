@@ -27,3 +27,4 @@ PRUEBAS DE PERSONALIDAD.
 Estas se parecen mucho a las de interés, por ejemplo, para ninguna de ellas hay un conjunto de respuestas correctas, sin embargo las pruebas de interés tienen más que ver con los empleos que le gusten o no a una persona, mientras que las de personalidad se encaminará a determinar como se comportará el candidato en situaciones de tensión interpersonal.
 
 Estas pruebas tratan de evaluar la motivación del individuo, su adaptación a las tensiones de la vida cotidiana, su capacidad para el trato interpersonal y su autoimagen.
+# FIN
